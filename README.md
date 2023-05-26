@@ -1,2 +1,2 @@
 # shelter
-[Shelter page]([https://duckduckgo.com](https://annafridmann.github.io/shelter/))
+Моя страничка  [Shelter](https://annafridmann.github.io/shelter/).
